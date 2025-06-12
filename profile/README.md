@@ -32,49 +32,28 @@ Cada repositório representa uma disciplina específica, contendo minhas impleme
 ## 🗂️ Repositórios por Disciplina
 
 🔸 **C206 - Programação Orientada a Objetos**
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 - Conceitos de POO, herança, polimorfismo
 - [Repositório - Laboratorio_C206](https://github.com/labs-inatel/Laboratorio_C206)
 
 ---
 
 🔸 **S201 - Paradigmas da Programação**
-- [![BASIC](https://img.shields.io/badge/BASIC-8A2BE2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjOEEyQkUyIiByeD0iNCIvPgo8dGV4dCB4PSIxMiIgeT0iMTUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSI4IiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QkFTSUM8L3RleHQ+Cjwvc3ZnPg==&logoColor=white)](https://en.wikipedia.org/wiki/BASIC)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
-[![Lisp](https://img.shields.io/badge/Lisp-3fb68b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iNiIgY3k9IjEyIiByPSI0IiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIxOCIgY3k9IjEyIiByPSI0IiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=&logoColor=white)](https://lisp-lang.org/)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://scala-lang.org/)
+- ![BASIC](https://img.shields.io/badge/BASIC-8A2BE2?style=flat&logo=BASIC&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Lisp](https://img.shields.io/badge/Lisp-3FB68B?style=flat&logo=lisp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)  
 - Paradigmas funcionais e imperativos
 - [Repositório - Laboratorio_S201](https://github.com/labs-inatel/Laboratorio_S201)
 
 ---
 
 🔸 **S203 - Arquitetura e Desenho de Software**
-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![UML](https://img.shields.io/badge/UML-19A2B8?style=flat&logo=uml&logoColor=white)](https://www.uml.org/)
-[![Astah](https://img.shields.io/badge/Astah-FF6B35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkY2QjM1IiByeD0iNCIvPgo8dGV4dCB4PSIxMiIgeT0iMTUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSI4IiBmaWxsPSJ3aGl0ZSIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkFTVEFIPC90ZXh0Pgo8L3N2Zz4=&logoColor=white)](https://astah.net/)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=flat&logo=eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![UML](https://img.shields.io/badge/UML-19A2B8?style=flat&logo=uml&logoColor=white) ![Astah](https://img.shields.io/badge/Astah-FF6B35?style=flat&logo=astah&logoColor=white)  
 - Padrões de projeto, UML, arquiteturas
 - [Repositório - Laboratorio_S203](https://github.com/labs-inatel/Laboratorio_S203)
 
 ---
 
 🔸 **C214 - Engenharia de Software**
-- ![Node.js](https://img.shields.io/badge/Node.js-20.x-brightgreen?logo=node.js)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-2023+-61DAFB?logo=react)
-![MUI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-Test%20Runner-C21325?logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-Unit%20Testing-6E9F18?logo=vitest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-Code%20Style-4B32C3?logo=eslint&logoColor=white)
-
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-2023+-61DAFB?style=flat&logo=react&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)  
 - Metodologias ágeis, testes, CI/CD
 - [Repositório - Laboratorio_C214](https://github.com/labs-inatel/Laboratorio_C214)
 
@@ -126,7 +105,7 @@ Cada repositório representa uma disciplina específica, contendo minhas impleme
 - [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![AVR](https://img.shields.io/badge/AVR-Microcontroller-red)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus)
+![AVR](https://img.shields.io/badge/AVR-Microcontroller-red?style=flat)  
 - Arduino, embedded systems
 - [Repositório - Laboratorio_E209](https://github.com/labs-inatel/Laboratorio_E209)
 
@@ -149,9 +128,7 @@ Cada repositório representa uma disciplina específica, contendo minhas impleme
 ---
 
 🔸 **S202 - Banco de Dados II**
-- [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green.svg)](https://www.mongodb.com/)
-[![Neo4j](https://img.shields.io/badge/Neo4j-4.0+-red.svg)](https://neo4j.com/)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-red?style=flat&logo=neo4j&logoColor=white) 
 - NoSQL, MongoDB, análise de dados
 - [Repositório - Laboratorio_S202](https://github.com/labs-inatel/Laboratorio_S202)
 
